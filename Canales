@@ -121,3 +121,5 @@ https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
 http://45.171.64.30:6060/play/a012/index.m3u8
 #EXTINF:-1 group-title="MUSICA", TDN MEDIOS
 https://castv10.plugstreaming.com:19360/tdntv/tdntv.m3u8
+#EXTINF:-1 group-title="Películas",Runtime Acción
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12858
