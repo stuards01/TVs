@@ -61,12 +61,6 @@ https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
 http://45.171.64.30:6060/play/a005/index.m3u8
 #EXTINF:-1 group-title="PELICULAS Y SERIES", CINECANAL
 http://15.204.246.24:8080/CinecanalHD/index.m3u8
-#EXTINF:-1 group-title="Películas",Runtime Acción
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=12858
-#EXTINF:-1 group-title="Películas",Runtime Comedia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=12860
-#EXTINF:-1 group-title="Películas",Runtime Romance
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=12862
 #EXTINF:-1 group-title="PELICULAS Y SERIES", DISCOVERY CHANNEL
 http://45.171.64.30:6060/play/a032/index.m3u8
 #EXTINF:-1 group-title="PELICULAS Y SERIES",DISNEY CHANNEL
