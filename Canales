@@ -82,7 +82,7 @@ http://15.204.246.24:8080/HistoryHD/index.m3u8
 #EXTINF:-1 group-title="PELICULAS Y SERIES", H&H
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
 #EXTINF:-1 group-title="PELICULAS Y SERIES", SPACE
-https://regionales.saohgdassregions.com/playlist/56/index.m3u8?token=b8093d191c8c80cf9ab051583da1617248fe1027-9cd96fb665d2169be659d7605fd2c121-1795650362-1795628762
+https://regionales.saohgdassregions.com/playlist/56/index.m3u8?token=b8093d191c8c80cf9ab051583da1617248fe1027-9cd96fb665d2169be659d7605fd2c121-1795650362-1795628762.m3u8
 #EXTINF:-1 group-title="PELICULAS Y SERIES", STAR CHANNEL
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 #EXTINF:-1 group-title="PELICULAS Y SERIES", TCM
