@@ -67,8 +67,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=12858
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12860
 #EXTINF:-1 group-title="Películas",Runtime Romance
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12862
-#EXTINF:-1 group-title="Películas",Runtime Clásicos
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=12859
 #EXTINF:-1 group-title="PELICULAS Y SERIES", DISCOVERY CHANNEL
 http://45.171.64.30:6060/play/a032/index.m3u8
 #EXTINF:-1 group-title="PELICULAS Y SERIES",DISNEY CHANNEL
