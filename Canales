@@ -1,10 +1,14 @@
 #EXTM3U
 #EXTINF:-1 group-title="NOTICIAS", RHEMA TV
 http://45.166.93.156:9999/play/a0ff/index.m3u8
-#EXTINF:-1 group-title="NOTICIAS", VIENTO RECIO 
-https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8
-#EXTINF:-1 group-title="NOTICIAS", CANAL M+
-https://canalmasuruguay.com/hls/720p/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS",Canal 27
+#EXTVLCOPT:http-referrer=https://canal27.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://smmc.me:5443/hls/abr/master.m3u8
+#EXTINF:-1 group-title="NOTICIAS", La Rosa de Guadalupe
+#EXTVLCOPT:http-referrer=https://www.lasestrellas.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36
+https://dcs4-vod.mp.lura.live/vod/p/master.m3u8?encp=MAJdjdtaFlToz_JzjePSDw:UNkzF2uVEbprJ3VCHla74bz6nPH2_LH-IDMI8l9DzTbRzfW-5ZVCsV97JOR72pcFhvUx4T7EptdDlbMabQKTHhyZijnfQXUuukuqtI5JnAk-U63gPIu4H_EseCt-WTUr0R9v8oymD-9yvVKO7AwyIUxKasWAvgaS5WG7WM7ypG7-XYv-x52VoBc6Se-lIpEgBOSeaHJEgkDveAqdytEtqjg7GR1pHGZUR7lkXrHF_7RUyPe-oqB78QDHSif_wqBn6MteazvKE45t__Jbt4Vt0roF0BZ7_oNpsBxc8swWgC-1Ee-kYUrAH1tOFhKgTGobkyaONGVVxu6jnEbobrMXTiw_9uIHGnC5bhMJd4bPwgaLlyxQ-aYXD1MHmtn4ihUdN5e62SGfKX770VTK7JGlHZ1vWmEkYb6pVHa8eryBBnR07stPORyTqdF6je8kc3zDrJw6q6kDAgoMO3BmJwBnyDKNeUZKo6WakC2T1qnIOSXT9Hg1oWU0ZXsYxfVhlfRwsrbqQbwJk1qVsmPhr70cDuBzF0GK6v9tBTFyJLnDCHz12ET4hbN7slAeVeiGUndPFIAO0_AFWmrr77zL0ELfWM6k0D83mtDf53T89APhAihCiQwBUnjeQbe7vqljO9RE221cAfKRFvUPpqaNRJau5sHgtYqaK2ySeqr8UAMqYu_ZYogmeHpv71NFC8WWyKHUfh8cXuzo1ia46d5Zaouxtq60pNcOJsuvHQq41drueiiLJjlZh4VoL9GF2M00SHtOM-dQZRNjrWwWalj2BONRDiVJmFc2TSk_5Pr1A0xaXONJPXybOJ9v1LiRjf57XiSBNtzdw_Z2mblMthCcr4XcCIfYPc2grAgujFyySlotyq3Ds1MwSCMh-xPKnjbDi6oKe2y6BKB35XPanNnjwvh_Ghh5I4pu4FGyiP0XBiWE86Huk9IX60CeqUeGAe6g9viot1-psSEUMxdICr4C4jqd0Jq9Xn_uR8DXoB3638fKWx-J5SnYmGJvgeJoDHxZ-WT5qanQseLwqebYAuweM_5XHS4CvwUUYTD9AyM5hASUCadVHz1_jvC4-cnBd9reLRM7Xym88-_WySib9UgTiJbs5VX1Jh9bPJl1DS3Z4YcvpalZby4PflDGGTiDiAl2GKdy_pLOKPM3Ss1SxU5sv7xadg&anvtrid=83be1577260755f238a226e2c7034e2a&anvauth=tb=0~te=1795630227~sgn=f5cc7687fa337da3ecadca3131e2825498baf1296f0bad5b7459cd98383d70c5&t=1795630137
 #EXTINF:-1 group-title="NOTICIAS", GUATEVISION
 http://200.115.120.1:8000/play/ca066/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS", CANAL 3
@@ -19,10 +23,6 @@ https://d15d1apgf4xcvn.cloudfront.net/0_3/index.m3u8
 https://stream.canalantigua.tv/canalantigua/canalantigua.m3u8
 #EXTINF:-1 group-title="NOTICIAS", CANAL 13 ESQUIPULAS
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
-#EXTINF:-1 group-title="NOTICIAS",Canal 27
-#EXTVLCOPT:http-referrer=https://canal27.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://smmc.me:5443/hls/abr/master.m3u8
 #EXTINF:-1 group-title="NOTICIAS", AZTECA 7
 http://187.245.231.226:8000/play/a0uz/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS", TELEMUNDO
