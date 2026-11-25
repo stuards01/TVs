@@ -14,7 +14,7 @@ http://181.119.177.253:8000/play/a03n/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS", CANAL 11
 http://168.196.127.137:6001/play/a064/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS", TN23
-https://stream.chapintv.com/tn23/tn23.m3u8
+https://www.chapintv.com/envivo-canal-23/?source=Internal&ref=Live+Signals+Menu.M3U8
 #EXTINF:-1 group-title="NOTICIAS", CANAL ANTIGUA
 https://stream.canalantigua.tv/canalantigua/canalantigua.m3u8
 #EXTINF:-1 group-title="NOTICIAS", CANAL 13 ESQUIPULAS
