@@ -61,8 +61,8 @@ https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
 http://45.171.64.30:6060/play/a005/index.m3u8
 #EXTINF:-1 group-title="PELICULAS Y SERIES", CINECANAL
 http://15.204.246.24:8080/CinecanalHD/index.m3u8
-#EXTINF:-1 group-title="PELICULAS Y SERIES", CINEMAX
-https://latamwbd.com/cinemax/es
+#EXTINF:-1 group-title="PELICULAS Y SERIES", sony one exitos
+https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS Y SERIES", DISCOVERY CHANNEL
 http://45.171.64.30:6060/play/a032/index.m3u8
 #EXTINF:-1 group-title="PELICULAS Y SERIES",DISNEY CHANNEL
