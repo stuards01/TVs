@@ -62,7 +62,7 @@ http://45.171.64.30:6060/play/a005/index.m3u8
 #EXTINF:-1 group-title="PELICULAS Y SERIES", CINECANAL
 http://15.204.246.24:8080/CinecanalHD/index.m3u8
 #EXTINF:-1 group-title="PELICULAS Y SERIES", CINEMAX
-https://streaming.onnethn.com/CINEMAX/playlist.m3u8
+https://latamwbd.com/cinemax/es
 #EXTINF:-1 group-title="PELICULAS Y SERIES", DISCOVERY CHANNEL
 http://45.171.64.30:6060/play/a032/index.m3u8
 #EXTINF:-1 group-title="PELICULAS Y SERIES",DISNEY CHANNEL
