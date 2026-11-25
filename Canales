@@ -19,8 +19,10 @@ https://d15d1apgf4xcvn.cloudfront.net/0_3/index.m3u8
 https://stream.canalantigua.tv/canalantigua/canalantigua.m3u8
 #EXTINF:-1 group-title="NOTICIAS", CANAL 13 ESQUIPULAS
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
-#EXTINF:-1 group-title="NOTICIAS", CANAL 27
-https://smmc.me:5443/hls/abr/v0/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS",Canal 27
+#EXTVLCOPT:http-referrer=https://canal27.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://smmc.me:5443/hls/abr/master.m3u8
 #EXTINF:-1 group-title="NOTICIAS", AZTECA 7
 http://187.245.231.226:8000/play/a0uz/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS", TELEMUNDO
