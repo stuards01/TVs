@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://share.google/zft6ciyryeXEUvzyn" group-title="NOTICIAS", RHEMA TV
+#EXTINF:-1 tvg-logo=https://share.google/zft6ciyryeXEUvzyn group-title="NOTICIAS", RHEMA TV
 http://45.166.93.156:9999/play/a0ff/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS",Canal 27
 #EXTVLCOPT:http-referrer=https://canal27.tv/
