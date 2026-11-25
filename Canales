@@ -27,8 +27,6 @@ http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
 http://190.60.46.156:8089/TELEMUNDO/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS", TELENOVELAS
 http://167.249.23.102:8000/play/a0g8/index.m3u8
-#EXTINF:-1 group-title="NOTICIAS", CANAL DEL GOBIERNO
-https://stream.castr.com/6a6b6a5aa395248409704102/live_0be585b08c3611f1bf789b5cb219835e/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 group-title="NOTICIAS", TNE CHILE
 https://v2.tustreaming.cl/tnetv/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS", TELEMAX MX
