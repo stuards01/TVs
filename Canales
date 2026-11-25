@@ -1,0 +1,123 @@
+#EXTM3U
+#EXTINF:-1 group-title="NOTICIAS", RHEMA TV
+http://45.166.93.156:9999/play/a0ff/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS", VIENTO RECIO 
+https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS", CANAL M+
+https://canalmasuruguay.com/hls/720p/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS", GUATEVISION
+http://200.115.120.1:8000/play/ca066/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS", CANAL 3
+http://181.119.177.253:8000/play/a03o/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS", CANAL 7
+http://181.119.177.253:8000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS", CANAL 11
+http://168.196.127.137:6001/play/a064/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS", CANAL 13 ESQUIPULAS
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
+#EXTINF:-1 group-title="NOTICIAS", AZTECA 7
+http://187.245.231.226:8000/play/a0uz/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS", TELEMUNDO
+https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
+#EXTINF:-1 group-title="NOTICIAS", CANAL DE LAS ESTRELLAS
+http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS", TELEMUNDO INTERNACIONAL
+http://190.60.46.156:8089/TELEMUNDO/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS", TELENOVELAS
+http://167.249.23.102:8000/play/a0g8/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS", TNE CHILE
+https://v2.tustreaming.cl/tnetv/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS", TELEMAX MX
+https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS", CANAL 5MX
+http://45.5.118.152:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="ANIME", CARTOON NETWORK
+http://158.172.217.18:8000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="ANIME", CARTOONITO
+http://45.173.12.70:8000/play/a0hh
+#EXTINF:-1 group-title="ANIME", DISCOVERY KIDS
+http://181.224.200.5:2277/play/a00o/index.m3u8
+#EXTINF:-1 group-title="ANIME", DISNEY JR
+http://190.14.10.19:16000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="ANIME", DREIKO TV
+https://cloudvideo.servers10.com:8081/8020/index.m3u8
+#EXTINF:-1 group-title="ANIME", MAX ANIME
+https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
+#EXTINF:-1 group-title="ANIME", NICKELODEON CLASICO
+https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+#EXTINF:-1 group-title="ANIME", NICKELODEON
+http://181.78.79.131:8000/play/a0qm
+#EXTINF:-1 group-title="ANIME", TOONCAST
+http://45.134.141.161:2200/ARG/Tooncast/index.m3u8
+#EXTINF:-1 group-title="ANIME", XTREMA CARTOONS
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", ADRENALINA PURA TV
+https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", AMC SERIES
+http://45.171.64.30:6060/play/a005/index.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", CINECANAL
+http://15.204.246.24:8080/CinecanalHD/index.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", CINEMAX
+https://streaming.onnethn.com/CINEMAX/playlist.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", DISCOVERY CHANNEL
+http://45.171.64.30:6060/play/a032/index.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", DISCOVERY TURBO
+http://38.134.250.110:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES",DISNEY CHANNEL
+http://15.204.246.24:8080/DisneyHD/index.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", GOLDEN EDGE
+http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", HBO 2
+http://45.171.64.30:6060/play/a00i/index.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", HISTORY CHANNEL
+http://15.204.246.24:8080/HistoryHD/index.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", H&H
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", STAR CHANNEL
+http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", TCM
+http://181.78.14.26:4000/play/a04d/index.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", TNT
+http://181.78.211.244:8005/play/a09g/index.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", UNIVERSAL
+http://15.204.246.24:8080/UniversalHD/index.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", WARNER CHANNEL
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", XTREMA ACCION
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORTS
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+#EXTINF:-1 group-title="DEPORTES", CLARO SPORTS
+http://45.171.64.30:6060/play/a00w/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN COLOMBIA
+http://190.61.47.54:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN MEXICO
+http://168.228.44.241:9997/play/a06p/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN PREMIUM ARGENTINA
+http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 2 
+http://38.211.118.56:50002/play/a0fa/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 2 COLOMBIA
+http://190.61.47.54:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", FOX CENTRAL
+http://181.78.106.127:5000/play/a009/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS
+http://138.59.227.20:8000/play/a085/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", MULTIVISION SPORTS GUATE
+https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
+#EXTINF:-1 group-title="DEPORTES", NFL CHANNEL
+https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
+#EXTINF:-1 group-title="DEPORTES", REAL MADRID TV
+http://90.163.85.113:8093/stream/26/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", SKY SPORTS
+http://45.228.234.9:8000/play/a06b/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", TNT SPORTS
+http://45.134.141.161:2200/ARG/TNT/index.m3u8
+#EXTINF:-1 group-title="MUSICA", BANDAMAX
+http://181.78.106.127:5000/play/ca064/index.m3u8
+#EXTINF:-1 group-title="MUSICA", FIESTA FM
+https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
+#EXTINF:-1 group-title="MUSICA", HTV
+http://45.171.64.30:6060/play/a012/index.m3u8
+#EXTINF:-1 group-title="MUSICA", TDN MEDIOS
+https://castv10.plugstreaming.com:19360/tdntv/tdntv.m3u8
