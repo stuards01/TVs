@@ -61,10 +61,14 @@ https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
 http://45.171.64.30:6060/play/a005/index.m3u8
 #EXTINF:-1 group-title="PELICULAS Y SERIES", CINECANAL
 http://15.204.246.24:8080/CinecanalHD/index.m3u8
-#EXTINF:-1 group-title="PELICULAS Y SERIES", SONY
-https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
-#EXTINF:-1 group-title="Películas",Películas del Oeste
-https://7ae9adf49f134692a2be9c23c25d6b46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_GrjngoPeliculasDelOeste-1/playlist.m3u8
+#EXTINF:-1 group-title="Películas",Runtime Acción
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12858
+#EXTINF:-1 group-title="Películas",Runtime Comedia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12860
+#EXTINF:-1 group-title="Películas",Runtime Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12862
+#EXTINF:-1 group-title="Películas",Runtime Clásicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12859
 #EXTINF:-1 group-title="PELICULAS Y SERIES", DISCOVERY CHANNEL
 http://45.171.64.30:6060/play/a032/index.m3u8
 #EXTINF:-1 group-title="PELICULAS Y SERIES",DISNEY CHANNEL
