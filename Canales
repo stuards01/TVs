@@ -14,7 +14,7 @@ http://200.115.120.1:8000/play/ca066/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS",AZTECA GUATEMALA
 #EXTVLCOPT:http-referrer=https://play.tvaztecaguate.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://channel1-tva.duin.dev/streaming/1/stream.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb3VudHJ5IjoiR1QiLCJjb250ZW50SWQiOiI1NzkiLCJ1c2VySWQiOiJhbm9uMzEyNDc4NDI2Njg4ZmY0NTEzYTk1YTBiZjkxZDNmYzBiYzk1OTBiZDE1IiwiaXAiOiIxODYuNjQuMTA4LjEzOCIsImRldmljZUlkIjoiODhmZjQ1MTNhOTVhMGJmOTFkM2ZjMGJjOTU5MGJkMTUiLCJqdGkiOiIzNDZhZTBmZC1lYWNlLTQwZDctOGMxNC0wZGQ0MzcyODNjMWYiLCJjaGFubmVsIjoiVFYgQ2FuYWwgMSIsImlhdCI6MTc5NTcxMjM1NCwiZXhwIjoxNzk1NzMyMTU0fQ.w28FgdicwISG0eJQUuml3gv9y8KqxBQ2PRNxWC7RjJ4
+https://channel1-tva.duin.dev/streaming/1/stream.m3u8
 #EXTINF:-1 group-title="NOTICIAS", CANAL 13 ESQUIPULAS
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 #EXTINF:-1 group-title="NOTICIAS", AZTECA 7
