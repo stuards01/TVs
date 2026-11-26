@@ -8,25 +8,25 @@ http://181.119.177.253:8000/play/a03n/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS", CANAL 11
 http://168.196.127.137:6001/play/a064/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS", CANAL ANTIGUA
-https://stream.canalantigua.tv/canalantigua/canalantigua.m3u8
+https://fast.streamingcws30.com/antigua/videoantigua/playlist.m3u8
 #EXTINF:-1 group-title="NOTICIAS", CANAL 13 ESQUIPULAS
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 #EXTINF:-1 group-title="NOTICIAS", AZTECA 7
 http://187.245.231.226:8000/play/a0uz/index.m3u8
-#EXTINF:-1 group-title="NOTICIAS", TELEMUNDO
-https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
+#EXTINF:-1 group-title="NOTICIAS", CANAL 5MX
+http://45.5.118.152:8000/play/a03i/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS", CANAL DE LAS ESTRELLAS
 http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS", TELEMAX MX
+https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS", TELEMUNDO
+https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
 #EXTINF:-1 group-title="NOTICIAS", TELEMUNDO INTERNACIONAL
 http://190.60.46.156:8089/TELEMUNDO/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS", TELENOVELAS
 http://167.249.23.102:8000/play/a0g8/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS", TNE CHILE
 https://v2.tustreaming.cl/tnetv/index.m3u8
-#EXTINF:-1 group-title="NOTICIAS", TELEMAX MX
-https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
-#EXTINF:-1 group-title="NOTICIAS", CANAL 5MX
-http://45.5.118.152:8000/play/a03i/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS", RHEMA TV
 http://45.166.93.156:9999/play/a0ff/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS",Canal 27
