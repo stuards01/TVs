@@ -9,6 +9,12 @@ http://181.119.177.253:8000/play/a03n/index.m3u8
 http://168.196.127.137:6001/play/a064/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS", CANAL ANTIGUA
 https://fast.streamingcws30.com/antigua/videoantigua/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS", GUATEVISION
+http://200.115.120.1:8000/play/ca066/index.m3u8
+EXTINF:-1 group-title="NOTICIAS", AZTECA GUATEMALA
+#EXTVLCOPT:http-referrer=https://play.tvaztecaguate.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36
+https://channel1-tva.duin.dev/streaming/1/stream.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb3VudHJ5IjoiR1QiLCJjb250ZW50SWQiOiI1NzkiLCJ1c2VySWQiOiJhbm9uMzEyNDc4NDI2Njg4ZmY0NTEzYTk1YTBiZjkxZDNmYzBiYzk1OTBiZDE1IiwiaXAiOiIxODYuNjQuMTA4LjEzOCIsImRldmljZUlkIjoiODhmZjQ1MTNhOTVhMGJmOTFkM2ZjMGJjOTU5MGJkMTUiLCJqdGkiOiIzNDZhZTBmZC1lYWNlLTQwZDctOGMxNC0wZGQ0MzcyODNjMWYiLCJjaGFubmVsIjoiVFYgQ2FuYWwgMSIsImlhdCI6MTc5NTcxMjM1NCwiZXhwIjoxNzk1NzMyMTU0fQ.w28FgdicwISG0eJQUuml3gv9y8KqxBQ2PRNxWC7RjJ4
 #EXTINF:-1 group-title="NOTICIAS", CANAL 13 ESQUIPULAS
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 #EXTINF:-1 group-title="NOTICIAS", AZTECA 7
@@ -25,8 +31,6 @@ https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
 http://190.60.46.156:8089/TELEMUNDO/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS", TELENOVELAS
 http://167.249.23.102:8000/play/a0g8/index.m3u8
-#EXTINF:-1 group-title="NOTICIAS", TNE CHILE
-https://v2.tustreaming.cl/tnetv/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS", RHEMA TV
 http://45.166.93.156:9999/play/a0ff/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS",Canal 27
@@ -35,44 +39,78 @@ http://45.166.93.156:9999/play/a0ff/index.m3u8
 https://smmc.me:5443/hls/abr/master.m3u8
 #EXTINF:-1 group-title="NOTICIAS", 3ABN LATINO
 https://3abn.tulixcdn.com/3abn2/Lat_live/smil:Lat_live.smil/chunklist_w2122646246_b728000_slen.m3u8?nimblesessionid=904374692
-#EXTINF:-1 group-title="ANIME", CARTOON NETWORK
-http://158.172.217.18:8000/play/a03a/index.m3u8
 #EXTINF:-1 group-title="ANIME", CARTOONITO
 http://45.173.12.70:8000/play/a0hh
 #EXTINF:-1 group-title="ANIME", DISCOVERY KIDS
 http://181.224.200.5:2277/play/a00o/index.m3u8
 #EXTINF:-1 group-title="ANIME", DISNEY JR
 http://190.14.10.19:16000/play/a02d/index.m3u8
-#EXTINF:-1 group-title="ANIME", DREIKO TV
-https://cloudvideo.servers10.com:8081/8020/index.m3u8
-#EXTINF:-1 group-title="ANIME", MAX ANIME
-https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
-#EXTINF:-1 group-title="PELICULAS Y SERIES",DISNEY CHANNEL
-http://15.204.246.24:8080/DisneyHD/index.m3u8
-#EXTINF:-1 group-title="ANIME", NICKELODEON CLASICO
-https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+#EXTINF:-1 group-title="ANIME", CARTOON NETWORK
+http://158.172.217.18:8000/play/a03a/index.m3u8
 #EXTINF:-1 group-title="ANIME", NICKELODEON
 http://181.78.79.131:8000/play/a0qm
+#EXTINF:-1 group-title="PELICULAS Y SERIES",DISNEY CHANNEL
+http://15.204.246.24:8080/DisneyHD/index.m3u8
+#EXTINF:-1 group-title="ANIME", MAX ANIME
+https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
+#EXTINF:-1 group-title="ANIME", NICKELODEON CLASICO
+https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+#EXTINF:-1 group-title="ANIME", DREIKO TV
+https://cloudvideo.servers10.com:8081/8020/index.m3u8
 #EXTINF:-1 group-title="ANIME", TOONCAST
 http://45.134.141.161:2200/ARG/Tooncast/index.m3u8
 #EXTINF:-1 group-title="ANIME", XTREMA CARTOONS
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
-#EXTINF:-1 group-title="PELICULAS Y SERIES", ADRENALINA PURA TV
-https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
-#EXTINF:-1 group-title="PELICULAS Y SERIES", AMC SERIES
-http://45.171.64.30:6060/play/a005/index.m3u8
-#EXTINF:-1 group-title="PELICULAS Y SERIES", CINECANAL
-http://15.204.246.24:8080/CinecanalHD/index.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", ANIMAL PLANET
+http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
 #EXTINF:-1 group-title="PELICULAS Y SERIES", DISCOVERY CHANNEL
 http://45.171.64.30:6060/play/a032/index.m3u8
-#EXTINF:-1 group-title="PELICULAS Y SERIES", GOLDEN EDGE
-http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8
-#EXTINF:-1 group-title="PELICULAS Y SERIES", HBO 2
-http://45.171.64.30:6060/play/a00i/index.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", HGTV
+http://38.87.224.19:2220/play/a01p/index.m3u8
 #EXTINF:-1 group-title="PELICULAS Y SERIES", HISTORY CHANNEL
 http://15.204.246.24:8080/HistoryHD/index.m3u8
 #EXTINF:-1 group-title="PELICULAS Y SERIES", H&H
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", NATGEO
+http://15.204.246.24:8080/NatGeoHD/index.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", COMEDIA CENTRAL
+https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", DISTRITO COMEDIA
+http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", AZTECA CINEMA CLASICO
+http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", ADRENALINA PURA TV
+https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", AMC SERIES
+http://45.171.64.30:6060/play/a005/index.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", AXN
+http://181.78.8.199:8000/play/a0cu/index.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", BARBE TV
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", CINECANAL
+http://15.204.246.24:8080/CinecanalHD/index.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", DE PELICULA
+http://138.121.15.230:9002/DEPELICULA/index.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", FX
+http://15.204.246.24:8080/FXHD/index.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", GOLDEN
+http://45.5.118.152:8000/play/a03p/index.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", GOLDEN EDGE
+http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", HBO FAMILY
+http://45.171.64.30:6060/play/a00k/index.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", HBO
+https://streaming.onnethn.com/HBO/playlist.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", HBO 2
+http://45.171.64.30:6060/play/a00i/index.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", HBO POP
+http://15.204.246.24:8080/HBOPOPHD/index.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", MULTIPREMIER
+http://168.196.127.137:6001/play/a08n/index.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", SONY
+http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", SPACE
+http://45.171.64.30:6060/play/a04n/index.m3u8
 #EXTINF:-1 group-title="PELICULAS Y SERIES", STAR CHANNEL
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 #EXTINF:-1 group-title="PELICULAS Y SERIES", TCM
@@ -85,6 +123,10 @@ http://15.204.246.24:8080/UniversalHD/index.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8
 #EXTINF:-1 group-title="PELICULAS Y SERIES", XTREMA ACCION
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", ENT EXTREME
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES", TURISMO TV
+https://183.giatvcdn.com/giatvplayout7/giatv-208343/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", BEIN SPORTS
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:-1 group-title="DEPORTES", CLARO SPORTS
@@ -119,6 +161,8 @@ http://90.163.85.113:8093/stream/26/index.m3u8
 http://45.228.234.9:8000/play/a06b/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", TNT SPORTS
 http://45.134.141.161:2200/ARG/TNT/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", TUDN
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 #EXTINF:-1 group-title="MUSICA", BANDAMAX
 http://181.78.106.127:5000/play/ca064/index.m3u8
 #EXTINF:-1 group-title="MUSICA", FIESTA FM
@@ -127,3 +171,7 @@ https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
 http://45.171.64.30:6060/play/a012/index.m3u8
 #EXTINF:-1 group-title="MUSICA", TDN MEDIOS
 https://castv10.plugstreaming.com:19360/tdntv/tdntv.m3u8
+#EXTINF:-1 group-title="MUSICA", TOTAL MUSIC 2000
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 group-title="MUSICA", TV EXITOS
+https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
