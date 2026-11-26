@@ -27,10 +27,6 @@ https://v2.tustreaming.cl/tnetv/index.m3u8
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 #EXTINF:-1 group-title="NOTICIAS", CANAL 5MX
 http://45.5.118.152:8000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="NOTICIAS", TELENOVELAS 1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1175
-#EXTINF:-1 group-title="NOTICIAS", DISTRITO COMEDIA
-http://45.5.57.58:8000/play/a07n/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS", RHEMA TV
 http://45.166.93.156:9999/play/a0ff/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS",Canal 27
