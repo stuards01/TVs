@@ -3,10 +3,10 @@
 http://45.166.93.156:9999/play/a0ff/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS",Canal 27
 #EXTVLCOPT:http-referrer=https://canal27.tv/
-#EXTINF:-1 group-title="NOTICIAS", 3ABN LATINO
-https://3abn.tulixcdn.com/3abn2/Lat_live/smil:Lat_live.smil/chunklist_w2122646246_b728000_slen.m3u8?nimblesessionid=904374692
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://smmc.me:5443/hls/abr/master.m3u8
+#EXTINF:-1 group-title="NOTICIAS", 3ABN LATINO
+https://3abn.tulixcdn.com/3abn2/Lat_live/smil:Lat_live.smil/chunklist_w2122646246_b728000_slen.m3u8?nimblesessionid=904374692
 #EXTINF:-1 group-title="NOTICIAS", CANAL 3
 http://181.119.177.253:8000/play/a03o/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS", CANAL 7
