@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo= https://share.google/zft6ciyryeXEUvzyn group-title="NOTICIAS", RHEMA TV
+#EXTINF:-1 group-title="NOTICIAS", RHEMA TV
 http://45.166.93.156:9999/play/a0ff/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS",Canal 27
 #EXTVLCOPT:http-referrer=https://canal27.tv/
+#EXTINF:-1 group-title="NOTICIAS", 3ABN LATINO
+https://3abn.tulixcdn.com/3abn2/Lat_live/smil:Lat_live.smil/chunklist_w2122646246_b728000_slen.m3u8?nimblesessionid=904374692
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://smmc.me:5443/hls/abr/master.m3u8
 #EXTINF:-1 group-title="NOTICIAS", CANAL 3
@@ -47,6 +49,8 @@ http://190.14.10.19:16000/play/a02d/index.m3u8
 https://cloudvideo.servers10.com:8081/8020/index.m3u8
 #EXTINF:-1 group-title="ANIME", MAX ANIME
 https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES",DISNEY CHANNEL
+http://15.204.246.24:8080/DisneyHD/index.m3u8
 #EXTINF:-1 group-title="ANIME", NICKELODEON CLASICO
 https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
 #EXTINF:-1 group-title="ANIME", NICKELODEON
@@ -63,8 +67,6 @@ http://45.171.64.30:6060/play/a005/index.m3u8
 http://15.204.246.24:8080/CinecanalHD/index.m3u8
 #EXTINF:-1 group-title="PELICULAS Y SERIES", DISCOVERY CHANNEL
 http://45.171.64.30:6060/play/a032/index.m3u8
-#EXTINF:-1 group-title="PELICULAS Y SERIES",DISNEY CHANNEL
-http://15.204.246.24:8080/DisneyHD/index.m3u8
 #EXTINF:-1 group-title="PELICULAS Y SERIES", GOLDEN EDGE
 http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8
 #EXTINF:-1 group-title="PELICULAS Y SERIES", HBO 2
